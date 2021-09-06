@@ -1,9 +1,3 @@
----
-weight: 1
-bookFlatSection: true
-title: "导师计划"
----
-
 # 如何让开源社区持续保持活跃
 
 # 开源导师计划
